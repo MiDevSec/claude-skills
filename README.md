@@ -54,12 +54,6 @@ Open `SKILL.md` and replace the placeholders with your own values.
 
 If you'd rather keep the notice generic, leave the placeholders out — the skill works either way.
 
-## Installation
-
-This skill lives in `.claude/skills/org-compliance/`. If it's already in that directory, it's active. Claude will pick it up automatically in any Cowork session or Claude Code environment that loads skills from this path.
-
-To use the same policy as a standalone system prompt in Claude Teams or Open WebUI, copy the content from `SKILL.md` (minus the YAML frontmatter) into your organisation preferences or system prompt field.
-
 ### Claude Teams deployment
 
 If you want this policy enforced across your entire organisation via Claude Teams:
